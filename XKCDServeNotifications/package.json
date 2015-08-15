@@ -1,0 +1,10 @@
+{
+  "name": "XKCDServeNotifications",
+  "version": "0.0.0",
+  "description": "XKCDServeNotifications",
+  "main": "server.js",
+  "author": {
+    "name": "T",
+    "email": ""
+  }
+}
