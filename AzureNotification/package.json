@@ -1,0 +1,10 @@
+{
+  "name": "AzureNotification",
+  "version": "0.0.0",
+  "description": "AzureNotification",
+  "main": "server.js",
+  "author": {
+    "name": "T",
+    "email": ""
+  }
+}
